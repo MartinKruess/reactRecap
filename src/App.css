@@ -1,0 +1,10 @@
+#root{
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    font-size: 1.6rem;
+    text-align: center;
+}
